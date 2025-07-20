@@ -1,0 +1,6 @@
+# GDAL bindings (linked to system libgdal from )
+GDAL==3.8.4
+xarray
+numpy
+pandas
+earthengine-api
